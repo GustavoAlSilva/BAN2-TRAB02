@@ -1,0 +1,23 @@
+labels,n
+['Estado'],"{'uf': 'RS', 'nome': 'Rio Grande do Sul'}"
+['Cidade'],{'nome': 'Joinville'}
+['Estado'],"{'uf': 'PR', 'nome': 'Paraná'}"
+['Cidade'],{'nome': 'Araquari'}
+['Cidade'],{'nome': 'Jaraguá do Sul'}
+['Cidade'],{'nome': 'Curitiba'}
+['Cidade'],{'nome': 'São José dos Pinhais'}
+['Cidade'],{'nome': 'Porto Alegre'}
+['Pessoa'],"{'telefone': '988640197', 'ddd': '47', 'data_nascimento': '27/03/2003', 'logradouro': 'Jair Corrêa', 'bairro': 'Boehmerwald', 'cpf': '13257180926', 'nome': 'Josué', 'sobrenome': 'Hass Pereira', 'email': 'jozzuhass@gmail.com', 'numero_residencial': '130', 'cep': '89232720'}"
+['Pessoa'],"{'telefone': '989224746', 'ddd': '41', 'data_nascimento': '27/02/1974', 'logradouro': 'Waldemiro Castanha', 'bairro': 'Floresta', 'cpf': '09827589926', 'nome': 'Anderson', 'sobrenome': 'Silva', 'email': 'andersor.motora@gmail.com', 'numero_residencial': '45', 'cep': '27676700'}"
+['Pessoa'],"{'telefone': '989161767', 'ddd': '47', 'data_nascimento': '24/03/2003', 'logradouro': 'José Lacoste', 'bairro': 'Iririu', 'cpf': '45327687927', 'nome': 'Gustavo', 'sobrenome': 'Almeida da Silva', 'email': 'guto.silva@gmail.com', 'cep': '89272809', 'numero_residencial': '67'}"
+['Solicitante'],{'quantidade_dependentes': '3'}
+['Estado'],"{'uf': 'SC', 'nome': 'Santa Catarina'}"
+['Condutor'],{'cnh': '000123456789'}
+['Deposito'],"{'nome': 'Depósito Hangar 5', 'descricao': 'Fechado e grande'}"
+['Pessoa'],"{'telefone': '988224746', 'ddd': '47', 'data_nascimento': '09/07/1964', 'logradouro': 'Copacabana', 'bairro': 'Floresta', 'cpf': '54983339949', 'nome': 'Maria', 'sobrenome': 'Das Neves', 'email': 'mariahass@gmail.com', 'numero_residencial': '1372', 'cep': '89626730'}"
+['Alimento'],"{'nome': 'Arroz', 'descricao': 'Integral'}"
+['ArrecadacaoAlimento'],"{'peso': '6', 'data_validade': '23/08/2030'}"
+['Pessoa'],"{'telefone': '976563454', 'ddd': '47', 'data_nascimento': '04/04/1998', 'logradouro': 'via lactea', 'bairro': 'Jardim paraiso', 'cpf': '75444483734', 'nome': 'Phelipe', 'sobrenome': 'Leonardo', 'email': 'phe.phe@gmail.com', 'numero_residencial': '45', 'cep': '89272098'}"
+['EstoqueAlimento'],"{'peso': '5', 'data_validade': '02/03/2043'}"
+['Alimento'],"{'nome': 'Feijão', 'descricao': 'Enlatado'}"
+['DoacaoAlimento'],{'peso': '2'}

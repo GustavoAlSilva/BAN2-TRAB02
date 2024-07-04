@@ -1,0 +1,20 @@
+{
+  "name": "ban2-grafos",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "scripts": {
+    "start": "node dist/index.js",
+    "build": "tsc"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/prompt-sync": "^4.2.3",
+    "typescript": "^5.4.5"
+  },
+  "dependencies": {
+    "neo4j-driver": "^5.22.0",
+    "prompt-sync": "^4.2.0"
+  },
+  "description": ""
+}
